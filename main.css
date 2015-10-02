@@ -1,0 +1,63 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+
+
+* {
+  font-family: 'Nanum Gothic Coding', sans-serif;
+}
+html {
+    display: table;
+    width: 100%;
+}
+body {
+display: table-cell;
+height: 700px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+text-align: center;
+vertical-align: middle;
+width: 1380px;
+}
+.content {
+
+}
+.img-res {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  width: 300px;
+  opacity: 0.7;
+}
+
+.title_name {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.title_desc {
+  opacity: 0.4;
+  color: #1D1D1D;
+}
+
+.lg_form {
+}
+
+.lg_form input {
+    margin-bottom: 25px;
+}
+
+.button {
+  width: 25px;
+  height: 25px;
+  background-color: #fff
+}
+
+.form-control[class="form-control"] {
+  width: 350px;
+}
+
+.btn-custom {
+  width: 350px;
+  background-color: #A3C2FF
+}
